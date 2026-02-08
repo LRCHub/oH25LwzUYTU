@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Namae No Nai Kaibutsu",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-02-08T09:31:00.554942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Namae_No_Nai_Kaibutsu_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Namae no Nai Kaibutsu (Instrumental)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_Namae_no_Nai_Kaibutsu_(Instrumental)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Namae no Nai Kaibutsu (TV Edit)",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/03_Namae_no_Nai_Kaibutsu_(TV_Edit)_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Namae no Nai Kaibutsu",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/04_Namae_no_Nai_Kaibutsu_Selphius.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/05_Namae_No_Nai_Kaibutsu_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu - Instrumetal",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/06_Namae_No_Nai_Kaibutsu_-_Instrumetal_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu [名前のない怪物]",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/07_Namae_No_Nai_Kaibutsu_[名前のない怪物]_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "名前のない怪物 - Namae No Nai Kaibutsu",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/08_名前のない怪物_-_Namae_No_Nai_Kaibutsu_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu (Instrumetal)",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/09_Namae_No_Nai_Kaibutsu_(Instrumetal)_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Namae no Nai Kaibutsu (TV Edit 92s ver)",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/10_Namae_no_Nai_Kaibutsu_(TV_Edit_92s_ver)_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Namae-No-Nai-Kaibutsu-From-Psycho-Pass",
+      "artist": "FalKKonE",
+      "has_synced": false,
+      "path": "select/11_Namae-No-Nai-Kaibutsu-From-Psycho-Pass_FalKKonE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Namae no Nai Kaibutsu",
+      "artist": "Egoist",
+      "has_synced": false,
+      "path": "select/pl_01_Namae_no_Nai_Kaibutsu_Egoist.txt"
+    }
+  ]
+}
